@@ -1,11 +1,18 @@
+```
+▬▬▬▬.◙.▬▬▬▬
+  ▂▄▄▓▄▄▂
+◢◤ █▀▀████▄▄▄▄▄▄▄◢◤
+█  NATEE'S GITHUB █▀▀▀▀╬
+◥█████████◤        
+══╩════╩══
+```
 
-[<img src ="https://img.shields.io/badge/🌐-natee.github.io-%23.svg?style=for-the-badge&logo=&logoColor=white%22">](https://natee.github.io/)
-![Visits Badge](https://badges.pufler.dev/visits/natee/natee?style=for-the-badge) 
-
-## 👽 信息
+### 👽 信息
 **大家好，我是 [natee](https://natee.github.io/website)，一个前端工程师，产品体验官** 👋
 
-## 💯 学习
+[<img src ="https://img.shields.io/badge/🌐-natee.github.io-%23.svg?style=for-the-badge&logo=&logoColor=white%22">](https://natee.github.io/)
+
+### 💯 学习
 
 <a href="https://github.com/natee/awesome-ppt">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=natee&repo=awesome-ppt&theme=onedark" />
@@ -14,7 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=natee&repo=build-your-own-vue-next&theme=onedark" />
 </a>
 
-## 🛠 技能和工具 
+### 🛠 技能和工具 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
@@ -37,13 +44,13 @@
 ![Sublime Text](https://img.shields.io/badge/-Sublime-4B4B4B?style=flat-square&logo=sublime-text&logoColor=FF9800)
 ...
 
-## 💬 联系我 
+### 💬 联系我 
 
 ![Gmail Badge](https://img.shields.io/badge/-kerncink@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
 ![Wechat Badge](https://img.shields.io/badge/-zkShare-7BB32E?style=flat-square&logo=wechat&logoColor=white)
 ![QQ Badge](https://img.shields.io/badge/-1835868668-3563d5?style=flat-square&logo=Tencent-QQ)
 
-## 🚦 统计信息
+### 🚦 统计信息
 
 <a href="https://github.com/natee/website">
   <img src="https://github-readme-stats.vercel.app/api?username=natee&show_icons=true&hide=commits" />
