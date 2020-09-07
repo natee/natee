@@ -15,7 +15,7 @@
 
 ### 💯 学习
 
-<a href="https://github.com/natee/awesome-ppt">
+<a href="https://github.com/natee/pomotroid">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=natee&repo=pomotroid&theme=onedark" />
 </a>
 <a href="https://github.com/natee/build-your-own-vue-next">
