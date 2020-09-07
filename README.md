@@ -16,7 +16,7 @@
 ### 💯 学习
 
 <a href="https://github.com/natee/awesome-ppt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=natee&repo=awesome-ppt&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=natee&repo=pomotroid&theme=onedark" />
 </a>
 <a href="https://github.com/natee/build-your-own-vue-next">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=natee&repo=build-your-own-vue-next&theme=onedark" />
